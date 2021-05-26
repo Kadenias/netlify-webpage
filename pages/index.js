@@ -19,15 +19,12 @@ export default function Home() {
         </header>
         <ul>
           <li tabindex="0" class="icon-dashboard"><span>Dashboard</span></li>
-          <li tabindex="0" class="icon-customers"><span>Customers</span></li>
-          <li tabindex="0" class="icon-users"><span>Users</span></li>
-          <li tabindex="0" class="icon-settings"><span>Settings</span></li>
         </ul>
       </nav>
 
       <main>
         <Image
-          src="/image1.png"
+          src="/image2.png"
           width={500}
           height={300}
           alt="there should be an image" />
